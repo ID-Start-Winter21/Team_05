@@ -15,7 +15,7 @@ Idee Alexa als Unterhaltung von Kindern in Form von spielen.
 
 ## Mitglieder
 
-- [Katharina Grünwald] (https://github.com/kgruenwa)
-- [Mert Kafali] (https://github.com/mrtkfl)
-- [Marco Kosa] (https://github.com/Gipliz)
-- [Vlad Panait] (https://github.com/VladP27)
+- [Katharina Grünwald](https://github.com/kgruenwa)
+- [Mert Kafali](https://github.com/mrtkfl)
+- [Marco Kosa](https://github.com/Gipliz)
+- [Vlad Panait](https://github.com/VladP27)
