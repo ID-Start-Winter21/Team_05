@@ -9,9 +9,12 @@ Zum Wintersemester 2021/22 startet an der Hochschule München und der Studienfak
 
 ## Idee
 
-Idee Alexa als Unterhaltung von Kindern in Form von spielen.
+Idee Alexa als Pädagogische Kinderunterhalterin in Form von spielen.
+
 
 ## Features
+
+
 
 ## Mitglieder
 
