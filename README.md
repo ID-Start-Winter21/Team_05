@@ -13,14 +13,14 @@ Zentrales Element des Studiengangs sind Projektmodule, die Bindeglied zwischen I
 ## Idee
 
 #### Alexa als Pädagogische Kinderunterhalterin in Form von spielen.  
-   -Der Skill soll Eltern entlassen die z.B. aufgrund von Corona, Beschäftigung für Ihre Kinder benötigen, aber trotzdem Wert auf pädagogische Inhalte legen.   
+   -Der Skill soll Eltern entlasten die z.B. aufgrund von Corona, Beschäftigung für Ihre Kinder benötigen, aber trotzdem Wert auf pädagogische Inhalte legen.   
    -Der Skill soll sich an eine junge Zielgruppe richten, die Ihre ersten Erfahrungen mit digitalen Medien machen.  
    -Der Skill soll Kindern einen pädagogischen Mehrwert durch interaktive Spiele bieten.  
 
 
 ## Features
 
-Die mit dem Skill verbundene Kamera soll von Usern gezeigte Tierbilder erkennen und in eine von Alexa vorgetragene Interaktife Geschichte einbringen.
+Die mit dem Skill verbundene Kamera soll von Usern gezeigte Tierbilder erkennen und in eine von Alexa vorgetragene interaktive Geschichte einbringen.
 
 
 
