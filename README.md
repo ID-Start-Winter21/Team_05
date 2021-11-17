@@ -14,6 +14,8 @@ Idee Alexa als Pädagogische Kinderunterhalterin in Form von spielen.
 
 ## Features
 
+Die mit dem Skill verbundene Kamera soll von Usern gezeigte Tierbilder erkennen und in eine von Alexa vorgetragene Interaktife Geschichte einbringen.
+
 
 
 ## Mitglieder
