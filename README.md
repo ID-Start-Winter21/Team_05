@@ -1,6 +1,6 @@
 # Projekt-Start-Team-5
 
-## Alexi
+## Alexa
 
 ## Thema 
 
