@@ -10,7 +10,7 @@ Die Ergebnisse der studentischen Arbeiten möchten wir am 10. Dezember 2021 zwis
 Zum Wintersemester 2021/22 startet an der Hochschule München und der Studienfakultät MUC.DAI der Studiengang Informatik und Design.  
 Zentrales Element des Studiengangs sind Projektmodule, die Bindeglied zwischen Informatik- und Designanteilen des Studiengangs sind.  
 
-## Idee
+## Idee - Kids Farm
 
 #### Alexa als Pädagogische Kinderunterhalterin in Form von spielen.  
    -Der Skill soll Eltern entlasten die z.B. aufgrund von Corona, Beschäftigung für Ihre Kinder benötigen, aber trotzdem Wert auf pädagogische Inhalte legen.   
