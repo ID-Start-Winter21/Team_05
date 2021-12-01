@@ -1,9 +1,5 @@
 ![](https://github.com/ID-Start-Winter21/Team_05/blob/main/Icons/Wiki/Untitled-1.png)
 
-# Projekt-Start-Team-5
-
-## Alexa - Skill
-
 ## Thema 
 
 Thema des Projektmoduls der Studierenden im ersten Semester lautet ‚Designing Voice User Interfaces‘.  
