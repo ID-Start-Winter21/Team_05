@@ -10,7 +10,7 @@ Zentrales Element des Studiengangs sind Projektmodule, die Bindeglied zwischen I
 
 ## Idee - Kids Farm
 
-#### Alexa als Pädagogische Kinderunterhalterin in Form von spielen.  
+#### Alexa als Pädagogische Kinderunterhalterin in Form von Spielen.  
    -Der Skill soll Eltern entlasten die z.B. aufgrund von Corona, Beschäftigung für Ihre Kinder benötigen, aber trotzdem Wert auf pädagogische Inhalte legen.   
    -Der Skill soll sich an eine junge Zielgruppe richten, die Ihre ersten Erfahrungen mit digitalen Medien machen.  
    -Der Skill soll Kindern einen pädagogischen Mehrwert durch interaktive Spiele bieten.  
