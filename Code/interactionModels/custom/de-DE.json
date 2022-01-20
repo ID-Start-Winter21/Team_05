@@ -1,0 +1,440 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "kinder farm skill",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "huehner",
+          "slots": [],
+          "samples": [
+            "das ist ein Gallus gallus domesticus ",
+            "das ist ein Haushuhn",
+            "Das ist ein Hahn.",
+            "Ich kann hühner hören.",
+            "Ist das ein Huhn",
+            "Ich kann ein huhn hören.",
+            "das ist ein gockel",
+            "breuler",
+            "gockel",
+            "das sind Hühnchen",
+            "huehner",
+            "ist ein hahn",
+            "das ist ein hahn",
+            "ist huhn",
+            "das ist ein huhn",
+            "hahn",
+            "chicken nugget",
+            "chicken",
+            "hänchen",
+            "huhn",
+            "hühner"
+          ]
+        },
+        {
+          "name": "huhnbild",
+          "slots": [],
+          "samples": [
+            "vier mal",
+            "four",
+            "eins zwei drei vier",
+            "vier hühner",
+            "Da sind vier hühner.",
+            "Ich kann vier hühner erkennen.",
+            "vier Stück",
+            "vier "
+          ]
+        },
+        {
+          "name": "spielen",
+          "slots": [],
+          "samples": [
+            "spielen farm",
+            "spiele",
+            "spielen bauernhof ",
+            "bauernhof spielen ",
+            "farm spielen",
+            "ja farm spielen",
+            "ja ich spiele",
+            "spielen will ich",
+            "ja ich will mit dir spielen",
+            "ja spielen",
+            "Ja ich will spielen.",
+            "Ich möchte spielen",
+            "Ich will spielen",
+            "play",
+            "spielen"
+          ]
+        },
+        {
+          "name": "Kuh",
+          "slots": [],
+          "samples": [
+            "das ist auch mein Lieblingstier",
+            "deine Lieblingstiere sind kühe",
+            "muh",
+            "das sind kälber",
+            "kalb",
+            "das sind kühe",
+            "dein Lieblingstier ist eine kuh",
+            "das ist eine kuh ",
+            "Kuh",
+            "Kühe"
+          ]
+        },
+        {
+          "name": "HerrHermann",
+          "slots": [],
+          "samples": [
+            "grützi herr hermann",
+            "grüß gott herr herrmann",
+            "grützi herr herrmann",
+            "grüß gott herr hermann",
+            "grützi",
+            "grüß gott",
+            "hallo herrhermann",
+            "jojo herrmann",
+            "was geht ab",
+            "mann",
+            "hallo ",
+            "herrherrmann",
+            "Hermann",
+            "Herr",
+            "HerrHermann"
+          ]
+        },
+        {
+          "name": "kuhbild",
+          "slots": [],
+          "samples": [
+            "kuh bild",
+            "kuhbild"
+          ]
+        },
+        {
+          "name": "schwein",
+          "slots": [],
+          "samples": [
+            "schweine",
+            "schwein"
+          ]
+        },
+        {
+          "name": "essenschweine",
+          "slots": [],
+          "samples": [
+            "schweine essen",
+            "essen schweine",
+            "essen",
+            "essenschweine"
+          ]
+        },
+        {
+          "name": "schweinebild",
+          "slots": [],
+          "samples": [
+            "schweinebilt",
+            "schweine bilt",
+            "schweine bild",
+            "schweinebild"
+          ]
+        },
+        {
+          "name": "schweineschlam",
+          "slots": [],
+          "samples": [
+            "schlamschweine",
+            "schlam schweine",
+            "schweine schlam",
+            "schweineschlam"
+          ]
+        },
+        {
+          "name": "pferd",
+          "slots": [],
+          "samples": [
+            "Ich will zu den pferden.",
+            "besuchen pferd",
+            "besuchen pferde",
+            "lass uns die pferde besuchen ",
+            "ich will die pferde besuchen ",
+            "pferde besuchen",
+            "pferd besuchen",
+            "lass uns zu rudolf und schattenfell gehen",
+            "schattenfell",
+            "rudolf und schattenfell",
+            "rudolf",
+            "lass uns zu den pferden gehen",
+            "stute",
+            "hengst",
+            "ja zu den ponys",
+            "pony",
+            "ja ich will die Pferde sehen",
+            "ja die pferde",
+            "horse",
+            "pferde",
+            "pfert",
+            "pferd"
+          ]
+        },
+        {
+          "name": "pferdebild",
+          "slots": [],
+          "samples": [
+            "pferdebild"
+          ]
+        },
+        {
+          "name": "katze",
+          "slots": [],
+          "samples": [
+            "katzen",
+            "katze"
+          ]
+        },
+        {
+          "name": "katzeeinsheuboden",
+          "slots": [],
+          "samples": [
+            "heuboden",
+            "Bild heuboden"
+          ]
+        },
+        {
+          "name": "katzezweigarten",
+          "slots": [],
+          "samples": [
+            "Garten",
+            "katzezweigarten"
+          ]
+        },
+        {
+          "name": "KatzeStall",
+          "slots": [],
+          "samples": [
+            "Stall bild"
+          ]
+        },
+        {
+          "name": "katzebild",
+          "slots": [],
+          "samples": [
+            "katze bild",
+            "katzebild"
+          ]
+        },
+        {
+          "name": "BelloundSchafe",
+          "slots": [],
+          "samples": []
+        },
+        {
+          "name": "bildhund",
+          "slots": [],
+          "samples": [
+            "bild hunt",
+            "bildhunt",
+            "Bildunt"
+          ]
+        },
+        {
+          "name": "heubodenbild",
+          "slots": [],
+          "samples": [
+            "heubodenbild"
+          ]
+        },
+        {
+          "name": "gartenbild",
+          "slots": [],
+          "samples": [
+            "gartenbild"
+          ]
+        },
+        {
+          "name": "bereitIntent",
+          "slots": [],
+          "samples": [
+            "ich warte",
+            "auf zu den katzen",
+            "lass uns weiter machen",
+            "ich wurde bereit geboren",
+            "bereit geboren",
+            "bereit wenn sie es sind",
+            "bereit",
+            "ich bin bereit"
+          ]
+        },
+        {
+          "name": "hundbild",
+          "slots": [],
+          "samples": [
+            "bildhund",
+            "bild hund",
+            "hund bild",
+            "hundbild"
+          ]
+        },
+        {
+          "name": "hasebild",
+          "slots": [],
+          "samples": [
+            "bild hase",
+            "bildhase",
+            "hase bild",
+            "hasebild"
+          ]
+        },
+        {
+          "name": "hoppelhase",
+          "slots": [],
+          "samples": [
+            "hopelhasse",
+            "hopelhase",
+            "hoppelhase"
+          ]
+        },
+        {
+          "name": "schafeundbello",
+          "slots": [],
+          "samples": [
+            "widder",
+            "aries",
+            "ovis",
+            "herdentiere",
+            "bello passt auf die schafe auf",
+            "mäh",
+            "easy schafe",
+            "bello hütet schafe ",
+            "schäferhund",
+            "schafeundbello",
+            "schafe"
+          ]
+        },
+        {
+          "name": "schaf",
+          "slots": [],
+          "samples": [
+            "schafe",
+            "schafbild",
+            "schaf"
+          ]
+        },
+        {
+          "name": "farmverlassen",
+          "slots": [],
+          "samples": [
+            "farm verlassen",
+            "farmverlassen"
+          ]
+        },
+        {
+          "name": "drinnen",
+          "slots": [],
+          "samples": [
+            "lass uns drinnen suchen",
+            "drinnen suchen",
+            "lass uns zuerst drinnen suchen",
+            "ich möchte rein gehen",
+            "in the hood",
+            "nicht draußen",
+            "ins Haus",
+            "Haus",
+            "im Haus",
+            "in dem Haus",
+            "inside",
+            "drinnen"
+          ]
+        },
+        {
+          "name": "raus",
+          "slots": [],
+          "samples": [
+            "draußen",
+            "nicht drinnen",
+            "look outside",
+            "lass uns draußen suchen",
+            "ich will raus gehen",
+            "gehe raus",
+            "geheraus",
+            "raus gehen",
+            "gehen",
+            "rausgehen",
+            "drausen",
+            "raus"
+          ]
+        },
+        {
+          "name": "blume",
+          "slots": [],
+          "samples": [
+            "bei den blumen ist eine katze",
+            "da bei den blumen ist eine katze",
+            "da bei den sonnenblumen ist eine katze",
+            "da in dem feld ist eine katze",
+            "da bei den sonnenblumen",
+            "im blumenfeld",
+            "bei den blumen",
+            "blumen",
+            "blume"
+          ]
+        },
+        {
+          "name": "bulldog",
+          "slots": [],
+          "samples": [
+            "bei dem traktor",
+            "da beim traktor ist eine ",
+            "beim Traktor ",
+            "beim Traktor ist eine Katze",
+            "da beim Traktor ist eine katze",
+            "traktor",
+            "bulldog"
+          ]
+        },
+        {
+          "name": "aufgehts",
+          "slots": [],
+          "samples": [
+            "gehts auf bello",
+            "auf gehts bello",
+            "gehts",
+            "geht",
+            "auf",
+            "auf gehts",
+            "aufgehts"
+          ]
+        },
+        {
+          "name": "losIntent",
+          "slots": [],
+          "samples": [
+            "los",
+            "losintent"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "124"
+}
