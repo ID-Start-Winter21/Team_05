@@ -1,0 +1,71 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "de-DE": {
+          "summary": "Pädagogische Kinderunterhaltung mit Lerneffekt",
+          "examplePhrases": [
+            "Alexa, öffne Kinder Farm."
+          ],
+          "keywords": [
+            "KidsFarm",
+            "Alexa",
+            "Kids",
+            "Farm",
+            "Learning"
+          ],
+          "name": "KidsFarm",
+          "description": "- Der Skill soll Eltern entlasten, die z.B. aufgrund von Corona, Beschäftigung für Ihre Kinder benötigen, aber trotzdem Wert auf pädagogische Inhalte legen.\n- Der Skill soll sich an eine junge Zielgruppe richten, die Ihre ersten Erfahrungen mit digitalen Medien machen.\n- Der Skill soll Kindern einen pädagogischen Mehrwert durch interaktive Spiele bieten.\n\nDie mit dem Skill verbundene Kamera soll von Usern gezeigte Tierbilder erkennen und in eine von Alexa vorgetragene interaktive Geschichte eingebracht werden. Im Weiteren sind kleinere Spiele wie Farb- und Formerkennung geplant.",
+          "smallIconUri": "file://assets/images/de-DE_smallIconUri.png",
+          "largeIconUri": "file://assets/images/de-DE_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "Sample Testing Instructions.",
+      "category": "CHILDRENS_NATURE_AND_ANIMAL",
+      "distributionMode": "PUBLIC",
+      "distributionCountries": [
+        "DE"
+      ]
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:eu-west-1:460772402902:function:f2462487-fa56-48cf-a11c-8f88a63c103e:Release_0"
+        },
+        "interfaces": [],
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:460772402902:function:f2462487-fa56-48cf-a11c-8f88a63c103e:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:460772402902:function:f2462487-fa56-48cf-a11c-8f88a63c103e:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:460772402902:function:f2462487-fa56-48cf-a11c-8f88a63c103e:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "de-DE": {}
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
